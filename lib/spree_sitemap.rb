@@ -16,6 +16,9 @@ Disallow: /user
 Disallow: /account
 Disallow: /api
 Disallow: /password
+Disallow: https://static.ibspot.com/
+Disallow: https://assets.ibspot.com/
+Disallow: https://new.ibspot.com/
   ROBOT
 
   class << self
